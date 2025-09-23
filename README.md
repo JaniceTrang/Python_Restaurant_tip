@@ -19,9 +19,19 @@ https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 - Compare tip sizes between smokers and non-smokers.
 - Analyze how gender, day, and party size influence tip amounts.
 
-#### Results and Insights:
+#### Insights:
 
-<img width="580" height="150" alt="image" src="https://github.com/user-attachments/assets/90ffa0e2-30c6-4e2d-ae6d-d0eabfd12e5a" />
+<img width="711" height="149" alt="image" src="https://github.com/user-attachments/assets/ecc5f008-9a4c-486a-89f1-17d176b2d942" />
+
+Based on the table of central tendency measures above, there are some insights about tipping behavior across different customer groups:
+
+- Smokers vs. Non-Smokers: Mean tips are almost the same (Smokers: $3.01, Non-Smokers: $2.99). The median is slightly higher for smokers ($3.00 vs. $2.74), suggesting smokers may tip a bit more typically.
+
+- Gender: Men leave slightly higher tips (Mean: $3.09, Median: $3.00) than women (Mean: $2.83, Median: $2.75).
+
+- Weekdays vs. Weekends: Tips are higher on weekends (Mean: $3.12, Median: $3.00) than on weekdays (Mean: $2.76, Median: $2.50).
+
+- Lunch vs. Dinner: Dinner tips are higher (Mean: $3.10, Median: $3.00) compared to lunch (Mean: $2.73, Median: $2.25).
 
 1.Overall Distribution of Tips
 * Most tips fall between 2 and 4 dollars, with fewer cases above 6.
