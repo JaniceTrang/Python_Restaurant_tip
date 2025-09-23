@@ -20,6 +20,9 @@ https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 - Analyze how gender, day, and party size influence tip amounts.
 
 #### Results and Insights:
+
+<img width="580" height="150" alt="image" src="https://github.com/user-attachments/assets/90ffa0e2-30c6-4e2d-ae6d-d0eabfd12e5a" />
+
 1.Overall Distribution of Tips
 * Most tips fall between 2 and 4 dollars, with fewer cases above 6.
 * Distribution is right-skewed: a small number of very high tips raise the average above the median.
