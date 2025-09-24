@@ -28,13 +28,13 @@ When comparing tipping behavior across groups, several patterns emerge:
 
 <img width="1095" height="614" alt="image" src="https://github.com/user-attachments/assets/14ba30f5-f009-4833-8c61-640e95f103af" />
 
-Skewed Distribution: all histograms are right-skewed, most tips fall in the lower range (2–4), with only a few very high tips (outliers).
+Skewed Distribution: all histograms are right-skewed, most tips fall in the lower range (1–4), with only a few very high tips (above 6).
 
 Smokers vs. Non-smokers
-- Smokers show more high-value tips (up to 10) → stronger outliers.
+- Smokers show more high-value tips (up to 10).
 - Non-smokers cluster more tightly around 2–4, with fewer extreme tips → tipping behavior is more stable.
 
-Males vs. Female:
+Gender Difference:
 - Male tips have a wider spread, with more occurrences of larger tips (6–10).
 - Female tips distribution is narrower, mostly concentrated between 1–4, with fewer high-value tips beyond 5. 
 
@@ -45,3 +45,10 @@ Weekdays vs. Weekends
 Lunch vs. Dinner
 - Lunch tips are tightly concentrated around 2–3 and rarely exceed 5 → lunch tipping is modest.
 - Dinner tips are spread wider, with more cases reaching 8–10 → dinners are more likely to generate higher tips
+
+#### Conclusions:
++ Tipping behavior is consistent overall, with most tips around $1.00 – $4.00.
++ Smokers and males tend to leave slightly higher tips, but the differences are small.
++ Context (time and day) influences tipping more than personal factors:
+  + Dinner > Lunch
+  + Weekends > Weekdays
