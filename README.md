@@ -21,9 +21,12 @@ https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
 #### Insights:
 A. Smokers vs. Non-Smokers
-<img width="295" height="151" alt="image" src="https://github.com/user-attachments/assets/013aee1e-3b7a-4022-ad3f-665326cc607f" />
 <img width="1100" height="411" alt="image" src="https://github.com/user-attachments/assets/9007b5d8-46b7-4937-9737-066dab7e1b99" />
 
+<img width="295" height="151" alt="image" src="https://github.com/user-attachments/assets/013aee1e-3b7a-4022-ad3f-665326cc607f" />
+Mean tips are nearly identical (~3.0).
+Median: smokers = 3.00, non-smokers = 2.74 → smokers might tip slightly more.
+Max tip: smokers (10.00) > non-smokers (9.00), suggesting smokers have more extreme high tips.
 
 Based on the table of central tendency measures above, there are some insights about tipping behavior across different customer groups:
 
