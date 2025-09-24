@@ -20,8 +20,10 @@ https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 - Analyze how gender, day, and party size influence tip amounts.
 
 #### Insights:
+A. Smokers vs. Non-Smokers
+<img width="295" height="151" alt="image" src="https://github.com/user-attachments/assets/013aee1e-3b7a-4022-ad3f-665326cc607f" />
+<img width="1100" height="411" alt="image" src="https://github.com/user-attachments/assets/9007b5d8-46b7-4937-9737-066dab7e1b99" />
 
-<img width="711" height="149" alt="image" src="https://github.com/user-attachments/assets/ecc5f008-9a4c-486a-89f1-17d176b2d942" />
 
 Based on the table of central tendency measures above, there are some insights about tipping behavior across different customer groups:
 
