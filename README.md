@@ -40,10 +40,10 @@ Gender Difference:
 
 Weekdays vs. Weekends
 - Weekends have a wider spread with more higher tips.
-- Weekdays concentrate mostly in the low range (1–3) with very few high tips → suggesting large tips mostly happen on weekends.
+- Weekdays concentrate mostly in the low range (1–3) with very few high tips.
 
 Lunch vs. Dinner
-- Lunch tips are tightly concentrated around 2–3 and rarely exceed 5 → lunch tipping is modest.
+- Lunch tips are tightly concentrated around 1–3 and rarely exceed 5.
 - Dinner tips are spread wider, with more cases reaching 8–10 → dinners are more likely to generate higher tips
 
 #### Conclusions:
