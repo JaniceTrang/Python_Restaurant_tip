@@ -19,7 +19,9 @@ https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 - Compare tip sizes between smokers and non-smokers.
 - Analyze how gender, day, and party size influence tip amounts.
 
-#### Insights:
+#### Results and Insights:
+<img width="718" height="151" alt="image" src="https://github.com/user-attachments/assets/486f6fcc-819f-4545-a2eb-31a4328477ce" />
+
 A. Smokers vs. Non-Smokers
 <img width="1100" height="411" alt="image" src="https://github.com/user-attachments/assets/9007b5d8-46b7-4937-9737-066dab7e1b99" />
 
